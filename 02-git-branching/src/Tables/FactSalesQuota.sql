@@ -6,3 +6,5 @@
     [CalendarQuarter]  TINYINT  NOT NULL,
     [SalesAmountQuota] MONEY    NOT NULL
 )
+WITH (CLUSTERED COLUMNSTORE INDEX, DISTRIBUTION = HASH([SalesQuotaKey]));
+

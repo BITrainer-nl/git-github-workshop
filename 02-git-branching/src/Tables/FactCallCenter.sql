@@ -14,4 +14,4 @@
     [ServiceGrade]        FLOAT (53)    NOT NULL
 )
 
---FJV
+WITH (CLUSTERED COLUMNSTORE INDEX, DISTRIBUTION = HASH([FactCallCenterID]));
