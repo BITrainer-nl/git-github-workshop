@@ -7,5 +7,3 @@
     [ProductSubcategoryKey]         INT           NOT NULL,
     [EnglishProductSubcategoryName] NVARCHAR (50) NOT NULL
 )
-;
-

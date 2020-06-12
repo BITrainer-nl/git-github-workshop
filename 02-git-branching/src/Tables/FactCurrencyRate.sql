@@ -4,5 +4,3 @@
     [AverageRate]  FLOAT (53) NOT NULL,
     [EndOfDayRate] FLOAT (53) NOT NULL
 )
-;
-
