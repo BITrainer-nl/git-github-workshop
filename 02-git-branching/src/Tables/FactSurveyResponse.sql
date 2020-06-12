@@ -7,5 +7,5 @@
     [ProductSubcategoryKey]         INT           NOT NULL,
     [EnglishProductSubcategoryName] NVARCHAR (50) NOT NULL
 )
-WITH (CLUSTERED COLUMNSTORE INDEX, DISTRIBUTION = HASH([CustomerKey]));
+;
 
