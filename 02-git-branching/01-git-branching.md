@@ -1,6 +1,6 @@
 # Branching in Git
 
-Branching in Git wordt weleens omschreven als de "killer feature". Om heel duidelijk te houden waar we mee bezig zijn, gebruiken we gedurende deze uitbreiding genaamd [Git webui](https://github.com/alberthier/git-webui) waarmee je eenvoudig inzicht krijgt in je huidige repository.
+Branching in Git wordt vaak omschreven als de "killer feature". Om heel duidelijk te houden waar we mee bezig zijn, gebruiken we gedurende deze uitbreiding genaamd [Git webui](https://github.com/alberthier/git-webui) waarmee je eenvoudig inzicht krijgt in je huidige repository.
 
 | Command  | Meaning                                       |
 |----------|-----------------------------------------------|
