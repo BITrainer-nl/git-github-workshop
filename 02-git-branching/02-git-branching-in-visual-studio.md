@@ -177,7 +177,7 @@ Als devops-team besloten om de fix hiervoor (het verwijderen van de *CLUSTERED C
 
 #### Hotfix ontwikkelen
 
-Hieronder staat het globale stappenplan. Mocht je in meer detail willen weten hoe je branches aanmaakt (of schakelt tussen branches) in Visual Studio, dan is dat hierboven te vinden.
+Hieronder staat het globale stappenplan. Mocht je in meer detail willen weten hoe je branches aanmaakt (of schakelt tussen branches) in Visual Studio Code, stel gerust vragen! Ook kun je uiteraard gebruik maken van de [documentatie van Visual Studio Code over branches](https://code.visualstudio.com/docs/editor/versioncontrol#_branches-and-tags).
 
 25. Schakel terug naar de **master** branch, en maak een nieuwe branch genaamd `hotfix-cci-initialen` aan. Zorg ervoor dat je ook op deze branch werkt.
 25. Verander de volgende tabellen. Verwijder de distributie-informatie (`WITH (CLUSTERED COLUMNSTORE INDEX, ...)`).
