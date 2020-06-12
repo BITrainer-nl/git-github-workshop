@@ -5,4 +5,4 @@
     [CalendarYear]     SMALLINT NOT NULL,
     [CalendarQuarter]  TINYINT  NOT NULL,
     [SalesAmountQuota] MONEY    NOT NULL
-)
+) 
