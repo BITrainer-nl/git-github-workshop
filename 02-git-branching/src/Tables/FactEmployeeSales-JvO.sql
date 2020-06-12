@@ -20,4 +20,4 @@ CREATE TABLE [dbo].[FactEmployeeSales] (
     [TaxAmt]                MONEY         NOT NULL,
     [Freight]               MONEY         NOT NULL,
     [CarrierTrackingNumber] NVARCHAR (25) NULL
-);
+); 
