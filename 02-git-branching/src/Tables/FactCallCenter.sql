@@ -12,4 +12,10 @@
     [IssuesRaised]        SMALLINT      NOT NULL,
     [AverageTimePerIssue] SMALLINT      NOT NULL,
     [ServiceGrade]        FLOAT (53)    NOT NULL
+
 )WITH (CLUSTERED COLUMNSTORE INDEX,...)
+
+)
+
+WITH (CLUSTERED COLUMNSTORE INDEX, DISTRIBUTION = HASH([FactCallCenterID]));
+

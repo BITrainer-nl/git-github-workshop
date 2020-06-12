@@ -7,3 +7,5 @@
     [AccountKey]         INT        NOT NULL,
     [Amount]             FLOAT (53) NOT NULL
 )
+WITH (CLUSTERED COLUMNSTORE INDEX, DISTRIBUTION = HASH([FinanceKey]));
+
