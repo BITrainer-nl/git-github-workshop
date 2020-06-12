@@ -107,7 +107,7 @@ De specifieke Merge Policy die een directe **push** richting een branch blokkeer
 
 ### Wijzigingen onderbrengen in een andere branch
 
-Wanneer we de commit-log zouden opvragen, zou deze er min of meer als volgt uitzien:
+Wanneer we de commit-log zouden opvragen, zou deze er min of meer als volgt uitzien (*let met name op de HEAD-pointer en `origin/HEAD`, `origin/master`*):
 
 ![Git commit log na laatste commit](img/git-commit-log.png)
 
