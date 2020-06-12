@@ -13,7 +13,7 @@ Tot nu toe heeft iedereen in een eigen *repository* gewerkt. We gaan nu samen we
 1. Open [https://github.com/BITrainer-nl/git-github-workshop](https://github.com/BITrainer-nl/git-github-workshop) in je browser
 1. **Clone** de repository
 1. Open Visual Studio Code
-1. Open via **File** -> **Open** de *map* waarin je de repository ge*clone*d hebt.
+1. Open via **File** -> **Open Folder...** de *map* waarin je de repository ge*clone*d hebt.
 1. Blader naar de map `02-git-branching` en bekijk de mappen en bestanden die zich hierin bevinden.
 
 > Omdat we in dit lab **samen werken in één repository** geven we bestanden en *branches* regelmatig initialen mee in de naam. Uiteraard maakt het niet uit wat de precieze initialen zijn, maar gaat het erom dat de branches en bestanden uniek te herkennen zijn.
