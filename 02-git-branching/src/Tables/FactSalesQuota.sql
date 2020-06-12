@@ -6,4 +6,3 @@
     [CalendarQuarter]  TINYINT  NOT NULL,
     [SalesAmountQuota] MONEY    NOT NULL
 )
-

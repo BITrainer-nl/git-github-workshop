@@ -23,5 +23,3 @@
     [CarrierTrackingNumber] NVARCHAR (25) NULL,
     [CustomerPONumber]      NVARCHAR (25) NULL
 )
-
-

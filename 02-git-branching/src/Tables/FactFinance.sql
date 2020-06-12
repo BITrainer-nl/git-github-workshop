@@ -7,4 +7,3 @@
     [AccountKey]         INT        NOT NULL,
     [Amount]             FLOAT (53) NOT NULL
 )
-

@@ -13,4 +13,3 @@
     [AverageTimePerIssue] SMALLINT      NOT NULL,
     [ServiceGrade]        FLOAT (53)    NOT NULL
 )
-
